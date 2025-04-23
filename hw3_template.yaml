@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: '2010-09-09'
+AWSTemplateFormatVersion: '2025-23-04'
 Description: 'AWS CloudFormation Template for Infrastructure Deployment'
 
 # Parameters section for user customization
